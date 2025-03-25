@@ -86,6 +86,3 @@ src+---test
             +---wolt
                 +---dopc -> This package contains the service layer unit test and Integration test cases of the application
 ```
-
-Best Regards,<br>
-Mojtaba Toof
